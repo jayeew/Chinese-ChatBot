@@ -10,3 +10,5 @@ LSTM, seq2seq, attention.
 
 Attention权重可视化
 ![](https://github.com/jiayiwang5/Chinese-ChatBot/blob/master/image/image2.png)
+
+ps.训练文件chat_bot_v2中，最后三块代码前两个是挂载谷歌云盘用的，最后一个是获取那些loss方便画图，不知道为什么回调函数里的tensorbord不好使，故出此下策
