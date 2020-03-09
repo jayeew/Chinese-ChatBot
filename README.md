@@ -22,7 +22,7 @@
   `chatbot_inference_Attention`<br>
 ### 加载现有模型
 - 运行`chatbot_inference_Attention`<br>
-- 加载`W--184-0.5949-.h5` 
+- 加载`models/W--184-0.5949-.h5` 
 ## 界面(Tkinter)
 ![](https://github.com/jiayiwang5/Chinese-ChatBot/blob/master/image/image.png)
 
