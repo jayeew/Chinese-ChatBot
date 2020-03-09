@@ -10,11 +10,16 @@
 * LSTM
 * seq2seq
 * attention 实验表明加入attention机制后训练速度快，收敛快，效果更好。
-
 ## 语料及训练环境
   青云语料库10万组对话，在google colaboratory训练。
-
-## 界面用Tkinter
+## 运行
+- **数据预处理**
+  `get_data`
+- **模型训练**
+  `chatbot_train`
+- **模型预测**
+  `chatbot_inference_Attention`
+## 界面(Tkinter)
 ![](https://github.com/jiayiwang5/Chinese-ChatBot/blob/master/image/image.png)
 
 ## Attention权重可视化
