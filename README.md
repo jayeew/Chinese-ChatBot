@@ -1,8 +1,13 @@
 # Chinese-ChatBot
-## 环境
+## 环境配置
 `Keras`<br>`python3.68`<br>`windows10`<br>`jupyter`<br>
+## 关键点
+* LSTM
+* seq2seq
+* attention 实验表明加入attention机制后训练速度快，收敛快，效果更好。
 
-  青云语料库10万组对话，在google colaboratory训练。实验表明加入attention机制后训练速度快，收敛快，效果更好。
+## 语料及训练环境
+  青云语料库10万组对话，在google colaboratory训练。
 
 ## 界面用Tkinter
 ![](https://github.com/jiayiwang5/Chinese-ChatBot/blob/master/image/image.png)
