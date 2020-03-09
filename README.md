@@ -1,6 +1,6 @@
 # Chinese-ChatBot
 ## 环境
-`Keras<br>python3.68<br>windows10<br>jupyter`<br>
+`Keras`<br>`python3.68`<br>`windows10`<br>`jupyter`<br>
 
   青云语料库10万组对话，在google colaboratory训练。实验表明加入attention机制后训练速度快，收敛快，效果更好。
 
