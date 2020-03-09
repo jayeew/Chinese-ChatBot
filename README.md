@@ -1,4 +1,4 @@
-# Chinese-ChatBot
+# Chinese-ChatBot/中文聊天机器人
 ## 环境配置
 | 程序         | 版本      |
 | ---------- | ------- |
