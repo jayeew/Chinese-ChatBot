@@ -13,12 +13,12 @@
 ## 语料及训练环境
   青云语料库10万组对话，在google colaboratory训练。
 ## 运行
-- **数据预处理**
-  `get_data`
-- **模型训练**
-  `chatbot_train`
-- **模型预测**
-  `chatbot_inference_Attention`
+- **数据预处理**<br>
+  `get_data`<br>
+- **模型训练**<br>
+  `chatbot_train`<br>
+- **模型预测**<br>
+  `chatbot_inference_Attention`<br>
 ## 界面(Tkinter)
 ![](https://github.com/jiayiwang5/Chinese-ChatBot/blob/master/image/image.png)
 
