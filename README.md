@@ -1,6 +1,5 @@
 # Chinese-ChatBot
 ## 环境配置
-`Keras`<br>`python3.68`<br>`windows10`<br>`jupyter`<br>
 | 程序         | 版本      |
 | ---------- | ------- |
 | python     | 3.68    |
