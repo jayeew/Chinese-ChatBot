@@ -3,7 +3,8 @@
 | 程序         | 版本      |
 | ---------- | ------- |
 | python     | 3.68    |
-| Keras      |         |
+| tensorflow | 1.13.1  |
+| Keras      | 2.2.4   |
 | windows10  |         |
 | jupyter    |         |
 ## 关键点
