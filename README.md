@@ -14,14 +14,14 @@
 ## 语料及训练环境
   青云语料库10万组对话，在google colaboratory训练。
 ## 运行
-### 完整过程
+### 方式一：完整过程
 - **数据预处理**<br>
   `get_data`<br>
 - **模型训练**<br>
   `chatbot_train`(此为挂载到google colab版本，本地跑对路径等需略加修改)<br>
 - **模型预测**<br>
   `chatbot_inference_Attention`<br>
-### 加载现有模型
+### 方式二：加载现有模型
 - 运行`chatbot_inference_Attention`<br>
 - 加载`models/W--184-0.5949-.h5` 
 ## 界面(Tkinter)
