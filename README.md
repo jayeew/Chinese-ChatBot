@@ -7,6 +7,11 @@
 | Keras      | 2.2.4   |
 | windows10  |         |
 | jupyter    |         |
+
+## 主要参考资料
+* 论文[《NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE(**点击标题下载**)》](https://arxiv.org/pdf/1409.0473.pdf)
+* Attention结构图<br>![](https://github.com/jiayiwang5/Chinese-ChatBot/blob/master/image/image3.png)
+
 ## 关键点
 * LSTM
 * seq2seq
