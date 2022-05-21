@@ -1,5 +1,6 @@
 # Chinese-ChatBot/中文聊天机器人
-* 作者已经全面转到GNN图神经网络方向，不再跟进NLP方面，项目代码停止维护，但issue一定会及时答复，以帮助DL新人
+* 作者已经全面转到GNN图神经网络方向，不再跟进NLP方面，项目代码停止维护。遥想项目完成时，网上资源甚少，作者一时兴起初次接触NLP与Deep Learning，克服重重困难，终于写出这个Toy Model。因此，作者深知小白不易，所以即使项目不再维护，但issue或邮件(jayeew@qq.com)一定会及时答复，以帮助Deep Learning新人。<br>
+* GNN方面暂时只改编整理了一套基准对比模型：[GNNs-Baseline](https://github.com/jayeew/GNNs-Baseline) ，以方便快速验证idea，欢迎同好补充、交流、学习。
 ## 环境配置
 | 程序         | 版本      |
 | ---------- | ------- |
