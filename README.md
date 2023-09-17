@@ -1,5 +1,5 @@
 # Chinese-ChatBot/中文聊天机器人
-* 作者已经全面转到~~GNN图神经网络方向~~C++开发，不再跟进NLP方面，项目代码停止维护。遥想项目完成时，网上资源甚少，作者一时兴起初次接触NLP与Deep Learning，克服重重困难，终于写出这个Toy Model。因此，作者深知小白不易，所以即使项目不再维护，但issue或邮件(jayeew@qq.com)一定会及时答复，以帮助Deep Learning新人。(Tensorflow我用的版本太老了，建议后来者用Pytorch重构一遍，我懒得写了)<br>
+* 作者已经全面转到~~GNN图神经网络方向~~C++开发，不再跟进NLP方面，项目代码停止维护。遥想项目完成时，网上资源甚少，作者一时兴起初次接触NLP与Deep Learning，克服重重困难，终于写出这个Toy Model。因此，作者深知小白不易，所以即使项目不再维护，但issue或邮件(jayeew@qq.com)一定会及时答复，以帮助Deep Learning新人。(Tensorflow我用的版本太老了，新的版本直接运行肯定各种报错，如果你遇到困难也别可以费劲去装老版的环境了，建议用Pytorch参照我的处理逻辑重构一遍，我懒得写了)<br>
 * GNN方面:
 - 改编整理了一套基准对比模型：[GNNs-Baseline](https://github.com/jayeew/GNNs-Baseline) ，以方便快速验证idea。
 - 本人的论文ACMMM 2023 (CCF-A) 开源代码在这[LSTGM](https://github.com/jayeew/LSTGM)。
